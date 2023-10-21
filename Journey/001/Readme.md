@@ -1,6 +1,10 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
+
+![image](https://github.com/ellyfersya/elly-journey/assets/143872074/81437c8e-5ef0-44cd-abda-5bebb040783e)
+
+
 # New post title here
 
 ## Introduction
